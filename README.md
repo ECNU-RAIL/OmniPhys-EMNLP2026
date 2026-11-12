@@ -89,6 +89,7 @@ If you find our work useful, please consider citing our paper:
 - **Pages:** 38481–38498
 - **Paper:** https://aclanthology.org/2026.findings-emnlp.1801/
 - **PDF:** [Download Paper](https://aclanthology.org/2026.findings-emnlp.1801.pdf)
+- **Data:** [Source]( https://pan.baidu.com/s/1xot4avAu4UhDXdXALNm73Q),code:14xw
 
 ### BibTeX
 
